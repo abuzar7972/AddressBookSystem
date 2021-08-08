@@ -6,7 +6,7 @@ import java.sql.SQLException;
 public class AddressBookConnection {
     public static final String URL = "jdbc:mysql://localhost:3306/AddressBook?useSSL=false";
     public static final String USER = "root";
-    public static final String PASSWORD = "Lavanya*871999";
+    public static final String PASSWORD = "Pass@@123";
     public static Connection connection = null;
 
     public static Connection getConnection() {
